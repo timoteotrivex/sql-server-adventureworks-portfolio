@@ -87,5 +87,5 @@ Este repo es uno de los proyectos SQL del portfolio. El otro es:
 [World Cup SQL Analysis](https://github.com/timoteotrivex/world-cup-sql-analysis)
 
 ## 👤 Autor
-**Timoteo Trivellini** — Data Analyst | SQL Server | Power BI | Excel | PL-300 Certified
+**Timoteo Trivellini** — Data Analyst | SQL Server | Power BI | Excel | 
 [LinkedIn](https://www.linkedin.com/in/timotrive42)
